@@ -1,7 +1,7 @@
-<h2> Hi, I'm Long Nguyen Hoang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+## Hi, I'm Long Nguyen Hoang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.imgur.com/m5Ie4P7.gif">
-<p><em>Information Technology at <a href="https://www.bkacad.com/" target="_blank">BKACAD EDUCATION</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Dev at BK HUB OutSource Community<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p>*Information Technology at <a href="https://www.bkacad.com/" target="_blank">BKACAD EDUCATION</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Dev at BK HUB OutSource Community<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+*</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -19,7 +19,7 @@ const longGtl = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> ***I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!** :)*
 
 <!-- <p align="center">
 <a href= "#" target="_blank"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
