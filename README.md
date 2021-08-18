@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2> Hi, I'm Long Nguyen Hoang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://i.imgur.com/m5Ie4P7.gif">
+<p><em>Information Technology at <a href="https://www.bkacad.com/" target="_blank">BKACAD EDUCATION</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Dev at BK HUB OutSource Community<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**GTL-21/GTL-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-Here are some ideas to get you started:
+```javascript
+const longGtl = {
+  pronouns: "He" | "his",
+  code: [React Native, ReactJs, Javascript, jQuery, HTML, CSS, PHP],
+  plaform: [WordPress],
+  techCommunities: {
+                      coorganizer: "Freelance",
+                      speaker: "Vietnamese",
+                      mentor: "Myself"
+                    },
+ challenge: "I contributed code to several repositories in the 2020 GitHub and GitLab Archive Program."
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<!-- <p align="center">
+<a href= "#" target="_blank"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
+<a href= "#" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "#" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/youtube.png"/></a>
+<a href= "#" target="_blank"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "#" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+</p> -->
+<p align="center">
+    <a href="https://github.com/muskanrani/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtl-201" />
+    </a>
+</p>
